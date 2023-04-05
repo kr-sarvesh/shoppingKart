@@ -4,18 +4,21 @@ import { Home } from './pages/Home'
 import { Store } from './pages/Store'
 import { About } from './pages/About'
 import { Navbar } from './components/Navbar'
+import { ShoppingCartProvider } from './context/ShoppingCartContext'
 
 function App() {
   return (
     <>
-      <Navbar />
-      <Container>
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/Store' element={<Store />} />
-          <Route path='/About' element={<About />} />
-        </Routes>
-      </Container>
+      <ShoppingCartProvider>
+        <Navbar />
+        <Container>
+          <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/Store' element={<Store />} />
+            <Route path='/About' element={<About />} />
+          </Routes>
+        </Container>
+      </ShoppingCartProvider>
     </>
   )
 }

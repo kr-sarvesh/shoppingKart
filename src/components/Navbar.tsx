@@ -1,7 +1,8 @@
 import { Container, Button, Nav, Navbar as NavbarBs } from 'react-bootstrap'
 import { NavLink } from 'react-router-dom'
-import cartImg from '../assets/bag-icon.svg'
+import { useShoppingCart } from '../context/ShoppingCartContext'
 export function Navbar() {
+  const { openCart, cartQuantity } = useShoppingCart()
   return (
     <NavbarBs sticky='top' className='bg-light shadow-sm mb-3'>
       <Container>
@@ -34,8 +35,8 @@ export function Navbar() {
             xmlns='http://www.w3.org/2000/svg'
           >
             <path
-              fill-rule='evenodd'
-              clip-rule='evenodd'
+              fillRule='evenodd'
+              clipRule='evenodd'
               d='M5.79166 2H1V4H4.2184L6.9872 16.6776H7V17H20V16.7519L22.1932 7.09095L22.5308 6H6.6552L6.08485 3.38852L5.79166 2ZM19.9869 8H7.092L8.62081 15H18.3978L19.9869 8Z'
               fill='currentColor'
             />

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 11.99,
+    "imgUrl": "/imges/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1109,
+    "imgUrl": "/imges/laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "price": 1.05,
+    "imgUrl": "/imges/orange.jpg"
+  },
+  {
+    "id": 4,
+    "name": "bike",
+    "price": 19999,
+    "imgUrl": "/imges/bike.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ruler",
+    "price": 1.99,
+    "imgUrl": "/imges/ruler.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Scissors",
+    "price": 2.99,
+    "imgUrl": "/imges/scissor.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Stapler",
+    "price": 4.99,
+    "imgUrl": "/imges/stapler.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Staples",
+    "price": 1.99,
+    "imgUrl": "/imges/staple_pin.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tape",
+    "price": 1.99,
+    "imgUrl": "/imges/tape.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Glue",
+    "price": 1.99,
+    "imgUrl": "/imges/glueStick.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pencil Sharpener",
+    "price": 1.99,
+    "imgUrl": "/imges/sharpener.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Highlighter",
+    "price": 1.99,
+    "imgUrl": "/imges/highlighter.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Calculator",
+    "price": 9.99,
+    "imgUrl": "/imges/calculator.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Notebook",
+    "price": 1,
+    "imgUrl": "/imges/notebook.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cup",
+    "price": 10,
+    "imgUrl": "/imges/cup.jpg"
+  }
+]

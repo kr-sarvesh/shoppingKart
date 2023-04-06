@@ -50,7 +50,8 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
   }
 
   function increaseCartQuantity(id: number) {
-    // First we need to call the setCartItems function to update the state
+    console.log('clicked')
+
     setCartItems((currItems) => {
       if (currItems.find((item) => item.id === id) == null) {
         return [...currItems, { id, quantity: 1 }]
@@ -65,7 +66,6 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
       }
     })
   }
-
   function decreaseCartQuantity(id: number) {
     setCartItems((currItems) => {
       if (currItems.find((item) => item.id === id)?.quantity === 1) {

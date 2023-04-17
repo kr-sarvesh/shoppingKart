@@ -35,7 +35,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
         <div className='mt-auto'>
           {quantity === 0 ? (
             <Button
-              className='btn btn-primary w-100'
+              className='btn btn-secondary w-100'
               onClick={() => increaseCartQuantity(id)}
             >
               Add to cart
@@ -51,14 +51,14 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
                   style={{ gap: '0.5rem' }}
                 >
                   <Button
-                    className='btn btn-primary'
+                    className='btn btn-secondary'
                     onClick={() => decreaseCartQuantity(id)}
                   >
                     -
                   </Button>
                   <span className='fs-4'>{quantity}</span>
                   <Button
-                    className='btn btn-primary'
+                    className='btn btn-secondary'
                     onClick={() => increaseCartQuantity(id)}
                   >
                     +

@@ -20,13 +20,10 @@ _**[Click Here To Preview](https://docs.google.com/presentation/d/e/2PACX-1vQzNq
 _**[Click Here To Preview HLD](https://www.canva.com/design/DAFgovd6xKQ/aJoKkfyUUQaxyoucKjlbOw/view?utm_content=DAFgovd6xKQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**_ & _**[Click Here To Preview LLD](https://www.canva.com/design/DAFgogyrPqo/7FhdWZCDjvLDWvoe8jsMKA/view?utm_content=DAFgogyrPqo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**_
 
 ## _Demo Video_
-_**[Click Here To Preview](https://user-images.githubusercontent.com/70770975/233357956-60679a86-b072-4f08-9e78-79e3d4dcdd58.mp4)**_
-
-![Library _ Loom - 1 February 2023](https://github.com/kr-sarvesh/shoppingKart/issues/1)
-
+https://user-images.githubusercontent.com/70770975/233360340-996ff553-0880-43cb-886a-5963c2b2118a.mp4
 
 ## _LinkedIn Post_
-_**[Click Here to See](https://www.linkedin.com/posts/activity-7026378394413981696-NGvB?utm_source=share&utm_medium=member_desktop)**_
+_**[Click Here to See](https://www.linkedin.com/feed/update/urn:li:activity:7053817806177349632/)**_
 
 ![margin](https://user-images.githubusercontent.com/91872149/215677575-7d7f1cbc-8e2d-4ae7-9bb9-4f5030296c61.png)
 
@@ -41,7 +38,7 @@ _**[Click Here to See](https://www.linkedin.com/posts/activity-70263783944139816
 
 
 
-https://user-images.githubusercontent.com/70770975/233360340-996ff553-0880-43cb-886a-5963c2b2118a.mp4
+
 
 
 

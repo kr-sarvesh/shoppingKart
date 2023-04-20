@@ -11,7 +11,7 @@
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=B9345A)]()
 
 ## _Detailed Project Report_
-_**[Click Here To Preview](https://www.canva.com/design/DAFZPEFk-yc/9MD9ZAnmE7ELUnQFgrfp6A/view?utm_content=DAFZPEFk-yc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**_
+_**[Click Here To Preview] (https://www.slideshare.net/KUMARSARVESH8/detailedreport-pptx)**_
 
 
 

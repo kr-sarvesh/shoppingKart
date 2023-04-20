@@ -13,6 +13,9 @@
 ## _Detailed Project Report_
 _**[Click Here To Preview](https://docs.google.com/presentation/d/e/2PACX-1vR-5_x_SLNJBPMtqTo-mgCuvpBYCOJlawcbP0PeEj5LERXsgDcfM8kU8NcylSi6t5k8GP3EV5Jl804a/pub?start=true&loop=false&delayms=3000)**_
 
+## _Architectural Design_
+![architecture_design](https://user-images.githubusercontent.com/70770975/233363623-fa64a6f6-140e-466d-87ea-16a86fcc7f3c.png)
+
 ## _Wireframe_
 _**[Click Here To Preview](https://docs.google.com/presentation/d/e/2PACX-1vQzNqMoj6LoCjAfNgmOfUBxvBMuHrRdD6jPjbO8_CVqJynaQFtcv1P4PSxdAjkY53yscGK3Qo9Qmj2R/pub?start=true&loop=false&delayms=3000)**_
 
@@ -28,6 +31,7 @@ _**[Click Here to See](https://www.linkedin.com/feed/update/urn:li:activity:7053
 
 ## _Gif Preview_
 https://user-images.githubusercontent.com/70770975/233362679-bc859b17-76fd-4bc9-ab53-da87a88e5c54.mp4
+
 
 
 

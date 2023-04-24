@@ -5,7 +5,7 @@ https://docs.google.com/presentation/d/e/2PACX-1vR-5_x_SLNJBPMtqTo-mgCuvpBYCOJla
 https://docs.google.com/presentation/d/e/2PACX-1vQzNqMoj6LoCjAfNgmOfUBxvBMuHrRdD6jPjbO8_CVqJynaQFtcv1P4PSxdAjkY53yscGK3Qo9Qmj2R/pub?start=true&loop=false&delayms=3000
 
 ### Low Level Design
-https://www.canva.com/design/DAFgogyrPqo/qFcJlA5P8JK2CQKgw1phcQ/edit?utm_content=DAFgogyrPqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFgogyrPqo/7FhdWZCDjvLDWvoe8jsMKA/view?utm_content=DAFgogyrPqo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
 ### High Level Design
-https://www.canva.com/design/DAFgovd6xKQ/vt39lcWXCoEgLNRxeYTv0A/edit?utm_content=DAFgovd6xKQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFgovd6xKQ/aJoKkfyUUQaxyoucKjlbOw/view?utm_content=DAFgovd6xKQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu

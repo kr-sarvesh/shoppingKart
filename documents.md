@@ -1,14 +1,14 @@
 ### Detail Project Report Link
-https://docs.google.com/presentation/d/e/2PACX-1vR-5_x_SLNJBPMtqTo-mgCuvpBYCOJlawcbP0PeEj5LERXsgDcfM8kU8NcylSi6t5k8GP3EV5Jl804a/pub?start=true&loop=false&delayms=3000&slide=id.p1
+https://drive.google.com/file/d/1f_6wlmJIhMaVlUb1PaxiSahnxvYcv_YD/view?usp=sharing
 
 ### WireFrame Documentation
 https://docs.google.com/presentation/d/e/2PACX-1vQzNqMoj6LoCjAfNgmOfUBxvBMuHrRdD6jPjbO8_CVqJynaQFtcv1P4PSxdAjkY53yscGK3Qo9Qmj2R/pub?start=true&loop=false&delayms=3000
 
 ### Low Level Design
-https://www.canva.com/design/DAFgogyrPqo/7FhdWZCDjvLDWvoe8jsMKA/view?utm_content=DAFgogyrPqo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+https://drive.google.com/file/d/1o-JGzq7L17Dg8cjcMJ8Mmszy5xH2Alz6/view?usp=sharing
 
 ### High Level Design
-https://www.canva.com/design/DAFgovd6xKQ/aJoKkfyUUQaxyoucKjlbOw/view?utm_content=DAFgovd6xKQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+https://drive.google.com/file/d/1dD65AWxJEYBYExxf2DsezVUIf3aXmsKp/view?usp=sharing
 
 ### video link
 https://drive.google.com/file/d/1pF5tMoX25MmbweP2qtO0yqEafQyyIHsU/view?usp=share_link

@@ -1,8 +1,11 @@
+### Deployed Link
+https://react-shoppingkart.netlify.app/
+
 ### Detail Project Report Link
 https://drive.google.com/file/d/1f_6wlmJIhMaVlUb1PaxiSahnxvYcv_YD/view?usp=sharing
 
 ### WireFrame Documentation
-https://docs.google.com/presentation/d/e/2PACX-1vQzNqMoj6LoCjAfNgmOfUBxvBMuHrRdD6jPjbO8_CVqJynaQFtcv1P4PSxdAjkY53yscGK3Qo9Qmj2R/pub?start=true&loop=false&delayms=3000
+https://www.figma.com/file/KccCnBIOz1pW6pLqULMeZT/iNeuron-Shopping-Cart-Internship-Project-(Community)?node-id=0-1&t=9eoy1dTrLtz1JYuu-0
 
 ### Low Level Design
 https://drive.google.com/file/d/1o-JGzq7L17Dg8cjcMJ8Mmszy5xH2Alz6/view?usp=sharing
